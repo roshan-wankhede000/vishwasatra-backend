@@ -19,10 +19,6 @@ Frontend
 
 API Endpoints =:
 
-admin username = admin@gmail.com
-
-admin password = 1234
-
 admin panel URL = https://vishwasatra-realestate.netlify.app/admin
 
 admin dashboard URL = https://vishwasatra-realestate.netlify.app/admin-dashboard
